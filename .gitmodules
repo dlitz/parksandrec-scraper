@@ -1,0 +1,3 @@
+[submodule "parksandrec-data"]
+	path = parksandrec-data
+	url = git://github.com/dlitz/parksandrec-data.git
